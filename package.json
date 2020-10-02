@@ -15,6 +15,7 @@
     "eject": "react-scripts eject",
     "lint": "eslint --fix --ext .js,.jsx .",
     "migrate": "knex migrate:latest",
+    "seed": "knex seed:run",
     "heroku-postbuild": "yarn build"
   },
   "eslintConfig": {
