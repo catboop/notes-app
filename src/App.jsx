@@ -22,7 +22,7 @@ export default function App() {
   return (
     <div id="container">
       <header>
-        <h1>Code Chrysalis Notes</h1>
+        <h1>My Notes</h1>
       </header>
 
       <Input
