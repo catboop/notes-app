@@ -1,7 +1,7 @@
 A simple CRUD note-taking app using Create-React-App
 
 <p align="center">
-  <img width="300" alt="logo" src="./public/notesapp.png">
+  <img width="600" alt="logo" src="./public/notesapp.png">
 </p>
 
 ### For Users:
