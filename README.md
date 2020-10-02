@@ -43,3 +43,9 @@ yarn dev
 - Express
 - Knex
 - Postgres
+
+### Future Features
+- Change color of selected note in list
+- add design
+- update favicon
+- add alert before deleting
