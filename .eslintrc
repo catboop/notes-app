@@ -1,0 +1,15 @@
+{
+  "plugins": ["jsx-a11y", "prettier"],
+  "rules": {
+    "prettier/prettier": "error",
+    "no-console": 0,
+    "react/prop-types": 0
+  },
+  "extends": [
+    "react-app",
+    "eslint:recommended",
+    "plugin:react/recommended",
+    "plugin:jsx-a11y/recommended",
+    "plugin:prettier/recommended"
+  ]
+}
