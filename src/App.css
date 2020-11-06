@@ -181,6 +181,9 @@ textarea {
   padding: 10px;
   font-size: 16px;
 }
+textarea:focus {
+  outline: none;
+}
 #card-container {
   display: flex;
   flex-flow: row wrap;
